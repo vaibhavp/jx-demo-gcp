@@ -1,4 +1,4 @@
 resource_labels = { "provider" : "jx" }
 jx_git_url = "https://github.com//"
-gcp_project = "my-gcp-project"
+gcp_project = "My First Project"
 gsm = true
